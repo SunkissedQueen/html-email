@@ -25,3 +25,23 @@ In this repository, you'll find a collection of projects that demonstrate the ap
 4. **Accessibility Features**: Email designs that prioritize accessibility, with considerations for screen readers, keyboard navigation, and color contrast, ensuring inclusivity for all recipients.
 
 By studying and contributing to these projects, you'll not only hone your technical skills but also build a portfolio that showcases your proficiency in HTML and CSS for email development, paving the way for meaningful employment opportunities in the ever-expanding digital landscape.
+
+### References
+- [Responsive  HTML Email](https://www.freecodecamp.org/news/how-to-create-a-responsive-html-email-template/)  
+
+### Process  
+1. **Setup Basic HTML Template**
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FoolishFaith</title>
+  </head>
+  <body>
+    
+  </body>
+</html>
+```
+2. **Setup Basic HTML Template**
